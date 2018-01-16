@@ -28,6 +28,7 @@ public static void main(String[] args){
     
     if (bmi < 18.5){
         Ulasan=" Jika kurang daripada yang sepatutnya";
+        Ulasan=" Jika kurang daripada yang sepatutnya";
        
     }else if (bmi < 25){
         Ulasan="normal";
@@ -36,6 +37,7 @@ public static void main(String[] args){
         Ulasan="berlebihan";
         
     }else{
+        Ulasan="gemuk perlu kuruskan berat badan";
         Ulasan="gemuk perlu kuruskan berat badan";
         
     }
